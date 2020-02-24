@@ -5,3 +5,6 @@ git add . #adaugarea tuturor modificarilor pentru a fi comise
 git commit -m "mesaj" #comit modificari in repository local
 git push #incarcare repository modificat pe git
 git pull #update repository local cu modificarile de pe git
+git config --global user.name "Vasilescu Laurentiu"
+git config --global user.email laurentiumarian2342@gmail.com
+http-server . #pornire server local
